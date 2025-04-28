@@ -355,3 +355,18 @@ img {
         font-size: 1.5em; 
     }   
 }
+
+
+.footer{
+    display: flex;
+    background:  #2670ff;
+    height: 200px;
+    align-items: center;
+}
+
+.footer p {
+    flex: 1;
+    text-align: center;
+    font-size: 2.25em;
+    color: #122ab2;
+}
